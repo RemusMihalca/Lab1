@@ -1,0 +1,1 @@
+minimul: 0 maximul: 50 suma: 98 media aritmetica: 16.333334
